@@ -52,7 +52,7 @@ void keyHandler(int c, int dimen[], struct cursor *cur){
 			cur->isPaint = 0;
 			break;
 	}
-	if (cur->y>=dimen[0] || cur->y<=-1 || cur->x>=dimen[1]-1 || cur->x<=-1) {
+	if (cur->y>=dimen[0] || cur->y<=-1 || cur->x>=dimen[1] || cur->x<=-1) {
 		cur->y=oldPos[0];
 		cur->x=oldPos[1];
 		return;
