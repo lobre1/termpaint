@@ -8,6 +8,8 @@ made for linux\
 | CONTROLS |  |
 | :---: | :---:|
 | Move | WASD |
-| Ability to change map using file |
-| Changing speed |
+| Change color | enter |
+| Toggle Drawing mode | space |
+| Toggle erase mode | x |
+| Quit and export to ppm |
 
