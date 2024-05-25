@@ -5,3 +5,9 @@ made for linux\
 ```sh
 ./termpaint height width filename
 ```
+| CONTROLS |  |
+| :---: | :---:|
+| Move | WASD |
+| Ability to change map using file |
+| Changing speed |
+
